@@ -1,0 +1,126 @@
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\bin\Release\museum.exe.config
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\bin\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\bin\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fColEdit.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fLogin.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fView.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fAdd.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fEdit.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fReg.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fReport.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fViewExhibit.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\05.05.2017 - вечер\museum\museum\obj\x86\Release\museum.pdb
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\bin\Release\museum.exe.config
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\bin\Release\museum.exe
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\bin\Release\museum.pdb
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.csprojResolveAssemblyReference.cache
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fColEdit.resources
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fLogin.resources
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fView.resources
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fAdd.resources
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fEdit.resources
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fReg.resources
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fReport.resources
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fViewExhibit.resources
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.Properties.Resources.resources
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.csproj.GenerateResource.Cache
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.exe
+C:\Programming\Проекты\БД ЦПМ ФСБ России\2017\05. Май\12.05.2017 - вечер\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\bin\Release\museum.exe.config
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\bin\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\bin\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fColEdit.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fLogin.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fView.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fAdd.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fEdit.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fReg.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fReport.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.fViewExhibit.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\museum.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\16.05.2017 - вечер\museum\museum\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\24.05.2017 - вечер\museum\museum\bin\Release\museum.exe.config
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\24.05.2017 - вечер\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\24.05.2017 - вечер\museum\museum\obj\x86\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\24.05.2017 - вечер\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\26.05.2017 - вечер\museum\museum\bin\Release\museum.exe.config
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\26.05.2017 - вечер\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\26.05.2017 - вечер\museum\museum\obj\x86\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\26.05.2017 - вечер\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\30.05.2017 - вечер\museum\museum\bin\Release\museum.exe.config
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\30.05.2017 - вечер\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\30.05.2017 - вечер\museum\museum\obj\x86\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\30.05.2017 - вечер\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\31.05.2017 - вечер\museum\museum\bin\Release\museum.exe.config
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\31.05.2017 - вечер\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\31.05.2017 - вечер\museum\museum\obj\x86\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\05. Май\31.05.2017 - вечер\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\06. Июнь\01.06.2017 - вечер\museum\museum\bin\Release\museum.exe.config
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\06. Июнь\01.06.2017 - вечер\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\06. Июнь\01.06.2017 - вечер\museum\museum\obj\x86\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\2017\06. Июнь\01.06.2017 - вечер\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\bin\Release\museum.exe.config
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\bin\Release\museum.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\bin\Release\museum.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.fColEdit.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.fLogin.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.fView.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.fAdd.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.fEdit.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.fReg.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.fReport.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.fViewExhibit.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\museum.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\03.06.2017 - работа\museum\museum\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\bin\Release\museum.exe.config
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\bin\Release\museum.exe
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\bin\Release\museum.pdb
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.csprojAssemblyReference.cache
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.fColEdit.resources
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.fLogin.resources
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.fView.resources
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.fAdd.resources
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.fEdit.resources
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.fReg.resources
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.fReport.resources
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.fViewExhibit.resources
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.Properties.Resources.resources
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.csproj.GenerateResource.cache
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.csproj.CoreCompileInputs.cache
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.exe
+D:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.csprojAssemblyReference.cache
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.csproj.ResolveComReference.cache
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.fColEdit.resources
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.fLogin.resources
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.fView.resources
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.fAdd.resources
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.fEdit.resources
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.fReg.resources
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.fReport.resources
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.fViewExhibit.resources
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.Properties.Resources.resources
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.csproj.GenerateResource.cache
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.exe
+C:\Users\kiril\Desktop\museum\museum\museum\obj\x86\Release\museum.pdb
+C:\Users\kiril\Desktop\museum\museum\museum\bin\Release\museum.exe.config
+C:\Users\kiril\Desktop\museum\museum\museum\bin\Release\museum.exe
+C:\Users\kiril\Desktop\museum\museum\museum\bin\Release\museum.pdb

@@ -1,0 +1,29 @@
+C:\Users\Пользователь\Desktop\xmlgenerator\xmlparser\xmlparser\bin\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\xmlgenerator\xmlparser\xmlparser\bin\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\xmlgenerator\xmlparser\xmlparser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\xmlgenerator\xmlparser\xmlparser\obj\x86\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\xmlgenerator\xmlparser\xmlparser\obj\x86\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\17.06.2017 - работа\xmlparser\xmlparser\xmlparser\obj\x86\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\17.06.2017 - работа\xmlparser\xmlparser\xmlparser\obj\x86\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\17.06.2017 - работа\xmlparser\xmlparser\xmlparser\bin\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\17.06.2017 - работа\xmlparser\xmlparser\xmlparser\bin\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\17.06.2017 - работа\xmlparser\xmlparser\xmlparser\bin\Debug\Ionic.Zip.dll
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\17.06.2017 - работа\xmlparser\xmlparser\xmlparser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\18.06.2017 - работа\xmlparser\xmlparser\xmlparser\obj\x86\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\18.06.2017 - работа\xmlparser\xmlparser\xmlparser\obj\x86\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\18.06.2017 - работа\xmlparser\xmlparser\xmlparser\bin\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\18.06.2017 - работа\xmlparser\xmlparser\xmlparser\bin\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\18.06.2017 - работа\xmlparser\xmlparser\xmlparser\bin\Debug\Ionic.Zip.dll
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\18.06.2017 - работа\xmlparser\xmlparser\xmlparser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом\xmlparser\xmlparser\xmlparser\obj\x86\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом\xmlparser\xmlparser\xmlparser\obj\x86\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом\xmlparser\xmlparser\xmlparser\bin\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом\xmlparser\xmlparser\xmlparser\bin\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом\xmlparser\xmlparser\xmlparser\bin\Debug\Ionic.Zip.dll
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом\xmlparser\xmlparser\xmlparser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом - копия\xmlparser\xmlparser\xmlparser\obj\x86\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом - копия\xmlparser\xmlparser\xmlparser\obj\x86\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом - копия\xmlparser\xmlparser\xmlparser\bin\Debug\xmlparser.exe
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом - копия\xmlparser\xmlparser\xmlparser\bin\Debug\xmlparser.pdb
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом - копия\xmlparser\xmlparser\xmlparser\bin\Debug\Ionic.Zip.dll
+C:\Users\Пользователь\Desktop\Проекты\Проекты\C#\2017\06. Июнь\19.06.2017 - дом - копия\xmlparser\xmlparser\xmlparser\obj\x86\Debug\ResolveAssemblyReference.cache

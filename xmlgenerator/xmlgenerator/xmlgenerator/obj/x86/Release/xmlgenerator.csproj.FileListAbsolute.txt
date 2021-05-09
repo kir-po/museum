@@ -1,0 +1,5 @@
+C:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\xmlgenerator\xmlgenerator\xmlgenerator\bin\Release\xmlgenerator.exe
+C:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\xmlgenerator\xmlgenerator\xmlgenerator\bin\Release\xmlgenerator.pdb
+C:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\xmlgenerator\xmlgenerator\xmlgenerator\obj\x86\Release\xmlgenerator.csprojResolveAssemblyReference.cache
+C:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\xmlgenerator\xmlgenerator\xmlgenerator\obj\x86\Release\xmlgenerator.exe
+C:\Programming\Проекты\C#\БД ЦПМ ФСБ России\2017\06. Июнь\21.06.2017 - дом\xmlgenerator\xmlgenerator\xmlgenerator\obj\x86\Release\xmlgenerator.pdb
